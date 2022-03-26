@@ -64,7 +64,7 @@ Since we have looked at the cost of living ranking, we should also look at the s
 
 ## Conclusion
 
-There is a lot of time and consideration involved in making a major decision like deciding where to live. Living expenses and salary are two essential financial considerations. This project helps the decision-maker saves time and effort by gathering information automatically and present a recommendation of the best Canadian city to live in based on its financial feasibility. 
+There is a lot of time and consideration involved in making a major decision like deciding where to live. Living expenses and salary are two essential financial considerations. This project aim to help the decision-maker saves time and effort by gathering information automatically and present a recommendation of the best Canadian city to live in based on its financial feasibility. 
 
 ![slide12](slides/12.jpg)
 
