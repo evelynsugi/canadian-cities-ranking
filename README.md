@@ -1,22 +1,16 @@
 # The Best Canadian City To Live In, Financially
 
-![slide1](slides/1.jpg)
-
-![slide2](slides/2.jpg)
+Full Presentation Slides: [presentation_slides.pdf](slides/presentation_slides.pdf)   
 
 
 ## Introduction
 
 Getting a job and figuring out where to live is one of the major routes for most university graduates. For international students studying in Canada, who usually do not have a permanent home, choosing their next home may be challenging as they may be unfamiliar with the country. In choosing where to live, two essential things to consider are the cost of living and salary information of that location. Thus, to help international students in deciding where to live in Canada, I scraped cost of living and salary information across cities in Canada and built a scoring system to rank which city is the best to live in financially.
 
-![slide3](slides/3.jpg)
-
 
 ## Background
 
 There is an abundance of information available on the internet regarding the cost of living and salary information of cities in Canada. Despite the availability of information, collecting, reviewing, and comparing that information can be challenging and time-consuming. This project aims to gather that information automatically, analyze it, and present rankings of cities based on their scores on cost of living and salary. According to this ranking information, the decision maker can then choose the best city in Canada to live in based on its financial feasibility.
-
-![slide4](slides/4.jpg)
 
 
 ## Methodology
